@@ -1,5 +1,4 @@
-# dokumentace-lua
-Česká dokumentace Lua
+
 
 
 # Roblox Studio & Lua - Komplexní průvodce 🎮
